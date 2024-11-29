@@ -1,0 +1,18 @@
+Index: bye.txt
+===================================================================
+diff --git a/bye.txt b/bye.txt
+deleted file mode 100644
+--- a/bye.txt	(revision 01431a1ad73efc22d3d98525afb7e2892784248a)
++++ /dev/null	(revision 01431a1ad73efc22d3d98525afb7e2892784248a)
+@@ -1,1 +0,0 @@
+-bye......
+\ No newline at end of file
+Index: hello.txt
+===================================================================
+diff --git a/hello.txt b/hello.txt
+deleted file mode 100644
+--- a/hello.txt	(revision 01431a1ad73efc22d3d98525afb7e2892784248a)
++++ /dev/null	(revision 01431a1ad73efc22d3d98525afb7e2892784248a)
+@@ -1,1 +0,0 @@
+-Hello, world!
+\ No newline at end of file
